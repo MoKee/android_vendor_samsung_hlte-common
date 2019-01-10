@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1547148864 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_samsung_hlte-common\nnonce 1547148864-94AB1A2B86C29FD4AD5624BBD7612EE3A0C96EFC\n\n0000000000000000000000000000000000000000 f0468984e55c205f2db1a5acfa98e2149cc9e579 refs/for/mkn-mr1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcN55AAAoJEPIi9OYuzSUxwCsH/2nDwk+zbbETnypR3b8peJ17\nlRAYuW635pfrifZ29xy/t7zn1rc1ZpQk3Kd1Qmz71CTF3bEg9St9cctFsOjecwTr\n2trWJs0S4aACrO/DU2jHIcKwahyunJvQhfonh308BLkv68SniryZoKrDV/L6WRvX\nHI8ouhlMe3KezeCsntcCDIabPVexZD6n2lvsKhKB+bz/Do6SvG4MhGq8PEF2xbav\nk/7iuI0s0RkeqRk+PQtZ9iXcc0W1x0q6JvCsXA028NayM2VeVHpVG+WGvuymp+n4\nSUmnwrQn6W2HJKPPL7TQt+KitKv91X4QOve0XOFUKM/Tz6GunEtzEwERyDoUftA\u003d\n\u003ddHbo\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
